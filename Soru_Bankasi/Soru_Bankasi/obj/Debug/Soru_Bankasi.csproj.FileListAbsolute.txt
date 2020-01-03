@@ -1,0 +1,15 @@
+E:\Yazılım Sınama Proje\Soru_Bankasi\Soru_Bankasi\bin\Debug\Soru_Bankasi.exe.config
+E:\Yazılım Sınama Proje\Soru_Bankasi\Soru_Bankasi\bin\Debug\Soru_Bankasi.exe
+E:\Yazılım Sınama Proje\Soru_Bankasi\Soru_Bankasi\bin\Debug\Soru_Bankasi.pdb
+E:\Yazılım Sınama Proje\Soru_Bankasi\Soru_Bankasi\obj\Debug\Soru_Bankasi.csprojAssemblyReference.cache
+E:\Yazılım Sınama Proje\Soru_Bankasi\Soru_Bankasi\obj\Debug\Soru_Bankasi.Form1.resources
+E:\Yazılım Sınama Proje\Soru_Bankasi\Soru_Bankasi\obj\Debug\Soru_Bankasi.Properties.Resources.resources
+E:\Yazılım Sınama Proje\Soru_Bankasi\Soru_Bankasi\obj\Debug\Soru_Bankasi.csproj.GenerateResource.cache
+E:\Yazılım Sınama Proje\Soru_Bankasi\Soru_Bankasi\obj\Debug\Soru_Bankasi.csproj.CoreCompileInputs.cache
+E:\Yazılım Sınama Proje\Soru_Bankasi\Soru_Bankasi\obj\Debug\Soru_Bankasi.exe
+E:\Yazılım Sınama Proje\Soru_Bankasi\Soru_Bankasi\obj\Debug\Soru_Bankasi.pdb
+E:\Yazılım Sınama Proje\Soru_Bankasi\Soru_Bankasi\obj\Debug\Soru_Bankasi.Ogretmen.resources
+E:\Yazılım Sınama Proje\Soru_Bankasi\Soru_Bankasi\obj\Debug\Soru_Bankasi.Ogrenci.resources
+E:\Yazılım Sınama Proje\Soru_Bankasi\Soru_Bankasi\obj\Debug\Soru_Bankasi.Istatistik.resources
+E:\Yazılım Sınama Proje\Soru_Bankasi\Soru_Bankasi\bin\Debug\Bunifu_UI_v1.52.dll
+E:\Yazılım Sınama Proje\Soru_Bankasi\Soru_Bankasi\obj\Debug\Soru_Bankasi.csproj.CopyComplete
